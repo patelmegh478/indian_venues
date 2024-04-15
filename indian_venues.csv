@@ -1,0 +1,321 @@
+,date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+3343,1951-03-05,Iran,Burma,2,0,Asian Games,New Delhi,India,True
+3344,1951-03-05,India,Indonesia,3,0,Asian Games,New Delhi,India,False
+3346,1951-03-07,Iran,Japan,0,0,Asian Games,New Delhi,India,True
+3347,1951-03-07,India,Afghanistan,3,0,Asian Games,New Delhi,India,False
+3348,1951-03-08,Iran,Japan,3,2,Asian Games,New Delhi,India,True
+3349,1951-03-09,Japan,Afghanistan,2,0,Asian Games,New Delhi,India,True
+3350,1951-03-10,India,Iran,1,0,Asian Games,New Delhi,India,False
+3898,1954-12-18,Sri Lanka,Pakistan,1,2,Friendly,Calcutta,India,True
+3899,1954-12-19,India,Myanmar,2,1,Friendly,Calcutta,India,False
+3901,1954-12-21,India,Sri Lanka,1,1,Friendly,Calcutta,India,False
+3902,1954-12-23,Myanmar,Pakistan,1,1,Friendly,Calcutta,India,True
+3903,1954-12-25,Myanmar,Sri Lanka,1,2,Friendly,Calcutta,India,True
+4142,1956-06-17,India,China PR,0,1,Friendly,New Delhi,India,False
+4251,1956-12-29,India,Yugoslavia,0,3,Friendly,Calcutta,India,False
+4818,1959-12-05,Iran,Israel,3,0,AFC Asian Cup qualification,Ernakulam,India,True
+4821,1959-12-06,India,Pakistan,1,0,AFC Asian Cup qualification,Ernakulam,India,False
+4822,1959-12-08,India,Israel,1,3,AFC Asian Cup qualification,Ernakulam,India,False
+4824,1959-12-10,Israel,Pakistan,2,0,AFC Asian Cup qualification,Ernakulam,India,True
+4827,1959-12-12,Israel,Iran,1,1,AFC Asian Cup qualification,Ernakulam,India,True
+4839,1959-12-17,Pakistan,Israel,2,2,AFC Asian Cup qualification,Ernakulam,India,True
+12865,1982-02-16,India,China PR,1,1,Nehru Cup,Calcutta,India,False
+12874,1982-02-18,India,South Korea,2,2,Nehru Cup,Calcutta,India,False
+12883,1982-02-20,South Korea,Uruguay,2,2,Nehru Cup,Calcutta,India,True
+12886,1982-02-22,China PR,Uruguay,0,0,Nehru Cup,Calcutta,India,True
+12892,1982-02-25,India,Uruguay,1,3,Nehru Cup,Calcutta,India,False
+12893,1982-03-01,China PR,South Korea,1,1,Nehru Cup,Calcutta,India,True
+12898,1982-03-04,China PR,Uruguay,0,2,Nehru Cup,Calcutta,India,True
+13195,1982-11-20,North Korea,Syria,1,1,Asian Games,New Delhi,India,True
+13196,1982-11-20,Saudi Arabia,Thailand,1,0,Asian Games,New Delhi,India,True
+13197,1982-11-20,China,Malaysia,1,0,Asian Games,New Delhi,India,True
+13198,1982-11-20,India,Bangladesh,2,0,Asian Games,New Delhi,India,False
+13200,1982-11-21,Kuwait,Nepal,3,1,Asian Games,New Delhi,India,True
+13201,1982-11-21,Iraq,Myanmar,4,0,Asian Games,New Delhi,India,True
+13202,1982-11-21,Japan,Iran,1,0,Asian Games,New Delhi,India,True
+13203,1982-11-21,South Korea,South Yemen,3,0,Asian Games,New Delhi,India,True
+13204,1982-11-22,North Korea,Thailand,3,0,Asian Games,New Delhi,India,True
+13205,1982-11-22,Saudi Arabia,Syria,1,1,Asian Games,New Delhi,India,True
+13206,1982-11-22,India,Malaysia,1,0,Asian Games,New Delhi,India,False
+13207,1982-11-22,China,Bangladesh,1,0,Asian Games,New Delhi,India,True
+13208,1982-11-23,Kuwait,Myanmar,4,0,Asian Games,New Delhi,India,True
+13209,1982-11-23,Iraq,Nepal,3,0,Asian Games,New Delhi,India,True
+13210,1982-11-23,South Korea,Iran,0,1,Asian Games,New Delhi,India,True
+13211,1982-11-23,Japan,South Yemen,3,1,Asian Games,New Delhi,India,True
+13214,1982-11-24,North Korea,Saudi Arabia,2,2,Asian Games,New Delhi,India,True
+13215,1982-11-24,Thailand,Syria,3,1,Asian Games,New Delhi,India,True
+13216,1982-11-24,India,China,2,2,Asian Games,New Delhi,India,False
+13217,1982-11-24,Malaysia,Bangladesh,1,2,Asian Games,New Delhi,India,True
+13218,1982-11-25,Iraq,Kuwait,1,2,Asian Games,New Delhi,India,True
+13219,1982-11-25,Myanmar,Nepal,3,0,Asian Games,New Delhi,India,True
+13220,1982-11-25,South Korea,Japan,1,2,Asian Games,New Delhi,India,True
+13221,1982-11-25,Iran,South Yemen,2,0,Asian Games,New Delhi,India,True
+13224,1982-11-27,North Korea,China,1,0,Asian Games,New Delhi,India,True
+13225,1982-11-27,India,Saudi Arabia,0,1,Asian Games,New Delhi,India,False
+13229,1982-11-28,Japan,Iraq,0,1,Asian Games,New Delhi,India,True
+13230,1982-11-28,Kuwait,Iran,1,0,Asian Games,New Delhi,India,True
+13231,1982-11-30,North Korea,Kuwait,2,3,Asian Games,New Delhi,India,True
+13233,1982-12-01,Saudi Arabia,Iraq,0,1,Asian Games,New Delhi,India,True
+13234,1982-12-02,North Korea,Saudi Arabia,0,2,Asian Games,New Delhi,India,True
+13235,1982-12-03,Kuwait,Iraq,0,1,Asian Games,New Delhi,India,True
+13718,1984-01-11,India,Poland,1,2,Nehru Cup,Calcutta,India,False
+13719,1984-01-14,India,Argentina,0,1,Nehru Cup,Calcutta,India,False
+13720,1984-01-15,China PR,Poland,0,1,Nehru Cup,Calcutta,India,True
+13722,1984-01-17,Argentina,Poland,1,1,Nehru Cup,Calcutta,India,True
+13726,1984-01-20,Argentina,China PR,0,1,Nehru Cup,Calcutta,India,True
+13730,1984-01-25,India,China PR,0,3,Nehru Cup,Calcutta,India,False
+13731,1984-01-27,China PR,Poland,0,1,Nehru Cup,Calcutta,India,True
+14055,1984-10-10,South Korea,Yemen,6,0,AFC Asian Cup qualification,Calcutta,India,True
+14060,1984-10-11,Malaysia,Pakistan,5,0,AFC Asian Cup qualification,Calcutta,India,True
+14062,1984-10-12,India,Yemen,4,0,AFC Asian Cup qualification,Calcutta,India,False
+14064,1984-10-13,South Korea,Pakistan,6,0,AFC Asian Cup qualification,Calcutta,India,True
+14068,1984-10-14,India,Malaysia,2,1,AFC Asian Cup qualification,Calcutta,India,False
+14072,1984-10-15,Pakistan,Yemen,4,1,AFC Asian Cup qualification,Calcutta,India,True
+14074,1984-10-16,South Korea,Malaysia,0,0,AFC Asian Cup qualification,Calcutta,India,True
+14080,1984-10-17,India,Pakistan,2,0,AFC Asian Cup qualification,Calcutta,India,False
+14089,1984-10-18,Malaysia,Yemen,4,1,AFC Asian Cup qualification,Calcutta,India,True
+14090,1984-10-19,India,South Korea,0,1,AFC Asian Cup qualification,Calcutta,India,False
+14254,1985-01-20,Iran,Yugoslavia,1,3,Nehru Cup,Ernakulam,India,True
+14255,1985-01-21,China PR,Russia,2,3,Nehru Cup,Ernakulam,India,True
+14257,1985-01-25,Russia,Yugoslavia,1,2,Nehru Cup,Ernakulam,India,True
+14260,1985-01-28,Iran,Russia,0,2,Nehru Cup,Ernakulam,India,True
+14261,1985-01-29,China PR,Yugoslavia,1,1,Nehru Cup,Ernakulam,India,True
+14265,1985-01-31,India,Morocco,0,1,Nehru Cup,Ernakulam,India,False
+14268,1985-02-02,Morocco,Russia,0,1,Nehru Cup,Ernakulam,India,True
+14274,1985-02-04,Yugoslavia,Russia,1,2,Nehru Cup,Ernakulam,India,True
+14435,1985-04-06,India,Indonesia,1,1,FIFA World Cup qualification,Calcutta,India,False
+14444,1985-04-09,India,Thailand,1,1,FIFA World Cup qualification,Calcutta,India,False
+14446,1985-04-12,India,Bangladesh,2,1,FIFA World Cup qualification,Calcutta,India,False
+14520,1985-05-05,Iraq,Qatar,2,1,FIFA World Cup qualification,Calcutta,India,True
+14839,1986-01-25,India,China PR,0,0,Nehru Cup,Trivandrum,India,False
+14841,1986-01-28,China PR,Peru,3,1,Nehru Cup,Trivandrum,India,True
+14845,1986-01-30,India,Peru,0,1,Nehru Cup,Trivandrum,India,False
+15266,1987-01-14,India,China PR,1,1,Nehru Cup,Calicut,India,False
+15272,1987-01-27,Nigeria,Syria,1,0,Nehru Cup,Calicut,India,True
+16203,1989-01-27,India,North Korea,1,2,Nehru Cup,Margao,India,False
+17256,1991-01-11,Russia,Zambia,4,0,Nehru Cup,Trivandrum,India,True
+17260,1991-01-14,Hungary,Russia,1,1,Nehru Cup,Trivandrum,India,True
+17262,1991-01-17,India,Hungary,1,2,Nehru Cup,Trivandrum,India,False
+17263,1991-01-20,India,Zambia,1,0,Nehru Cup,Trivandrum,India,False
+17269,1991-01-23,Hungary,Zambia,4,1,Nehru Cup,Trivandrum,India,True
+17270,1991-01-24,India,Russia,1,3,Nehru Cup,Trivandrum,India,False
+17878,1992-05-11,Iran,Pakistan,7,0,AFC Asian Cup qualification,Calcutta,India,True
+17885,1992-05-15,India,Iran,0,3,AFC Asian Cup qualification,Calcutta,India,False
+18376,1993-01-19,North Korea,Bolivia,2,1,Nehru Cup,Madras,India,True
+18378,1993-01-20,India,Finland,0,0,Nehru Cup,Madras,India,False
+18381,1993-01-22,Cameroon,Finland,0,0,Nehru Cup,Madras,India,True
+18386,1993-01-24,India,Cameroon,1,1,Nehru Cup,Madras,India,False
+18388,1993-01-25,Bolivia,Russia,1,2,Nehru Cup,Madras,India,True
+18389,1993-01-26,India,Finland,0,2,Nehru Cup,Madras,India,False
+18393,1993-01-28,Cameroon,Finland,2,0,Nehru Cup,Madras,India,True
+18395,1993-01-30,India,Cameroon,2,2,Nehru Cup,Madras,India,False
+18404,1993-01-31,North Korea,Finland,3,2,Nehru Cup,Madras,India,True
+19799,1995-03-08,Iraq,Uzbekistan,3,1,Nehru Cup,Calcutta,India,True
+19802,1995-03-10,India,Thailand,0,5,Nehru Cup,Calcutta,India,False
+19804,1995-03-12,India,Iraq,1,1,Nehru Cup,Calcutta,India,False
+19806,1995-03-14,India,Uzbekistan,1,0,Nehru Cup,Calcutta,India,False
+19807,1995-03-14,Iraq,Thailand,3,1,Nehru Cup,Calcutta,India,True
+19809,1995-03-16,Thailand,Uzbekistan,0,1,Nehru Cup,Calcutta,India,True
+21410,1997-03-30,China PR,Iraq,0,2,Nehru Cup,Kochi,India,True
+21418,1997-04-01,India,China PR,0,0,Nehru Cup,Kochi,India,False
+21443,1997-04-03,China PR,Ghana,0,0,Nehru Cup,Kochi,India,True
+21457,1997-04-06,India,Iraq,0,1,Nehru Cup,Kochi,India,False
+21464,1997-04-08,India,Ghana,2,2,Nehru Cup,Kochi,India,False
+21467,1997-04-10,India,Iraq,1,1,Nehru Cup,Kochi,India,False
+21469,1997-04-11,India,China PR,1,2,Nehru Cup,Kochi,India,False
+22791,1998-11-16,India,Uzbekistan,0,0,Friendly,New Delhi,India,False
+22811,1998-11-19,India,Uzbekistan,0,4,Friendly,Calcutta,India,False
+23080,1999-04-22,India,Bangladesh,0,0,SAFF Cup,Margao,India,False
+23082,1999-04-23,Sri Lanka,Maldives,0,0,SAFF Cup,Margao,India,True
+23084,1999-04-24,Pakistan,Bangladesh,0,4,SAFF Cup,Margao,India,True
+23085,1999-04-25,Sri Lanka,Nepal,2,3,SAFF Cup,Margao,India,True
+23087,1999-04-26,India,Pakistan,2,0,SAFF Cup,Margao,India,False
+23088,1999-04-27,Nepal,Maldives,2,3,SAFF Cup,Margao,India,True
+23106,1999-04-29,Bangladesh,Nepal,2,1,SAFF Cup,Margao,India,True
+23107,1999-04-29,India,Maldives,2,1,SAFF Cup,Margao,India,False
+23108,1999-05-01,India,Bangladesh,2,0,SAFF Cup,Margao,India,False
+23109,1999-05-01,Maldives,Nepal,2,0,SAFF Cup,Margao,India,True
+24696,2001-01-11,Romania,Jordan,0,1,Millennium Cup,Margao,India,True
+24698,2001-01-12,Bosnia and Herzegovina,Bangladesh,2,0,Millennium Cup,Kochi,India,True
+24700,2001-01-12,Uzbekistan,Bahrain,5,0,Millennium Cup,Calcutta,India,True
+24702,2001-01-13,India,Iceland,0,3,Millennium Cup,Kochi,India,False
+24712,2001-01-14,Romania,Hong Kong,4,2,Millennium Cup,Margao,India,True
+24713,2001-01-14,Serbia,Bosnia and Herzegovina,1,1,Millennium Cup,Kochi,India,True
+24715,2001-01-15,Chile,Bahrain,2,0,Millennium Cup,Calcutta,India,True
+24716,2001-01-16,Bangladesh,Serbia,1,4,Millennium Cup,Kochi,India,True
+24717,2001-01-16,Hong Kong,Jordan,0,2,Millennium Cup,Margao,India,True
+24718,2001-01-17,Chile,Uzbekistan,2,0,Millennium Cup,Calcutta,India,True
+24723,2001-01-20,Chile,Iceland,2,0,Millennium Cup,Calcutta,India,True
+24726,2001-01-20,Serbia,Romania,2,0,Millennium Cup,Margao,India,True
+24727,2001-01-22,Bosnia and Herzegovina,Chile,1,0,Millennium Cup,Calcutta,India,True
+24730,2001-01-23,Serbia,Japan,1,0,Millennium Cup,Calcutta,India,True
+24735,2001-01-25,Bosnia and Herzegovina,Serbia,0,2,Millennium Cup,Calcutta,India,True
+24999,2001-04-08,India,United Arab Emirates,1,0,FIFA World Cup qualification,Bangalore,India,False
+25024,2001-04-15,India,Yemen,1,1,FIFA World Cup qualification,Bangalore,India,False
+25154,2001-05-20,India,Brunei,5,0,FIFA World Cup qualification,Bangalore,India,False
+26692,2003-03-30,India,North Korea,1,1,AFC Asian Cup qualification,Margao,India,False
+27258,2003-10-22,India,Rwanda,3,1,Afro-Asian Games,Hyderabad,India,False
+27260,2003-10-23,Burkina Faso,Zimbabwe,1,4,Afro-Asian Games,Hyderabad,India,True
+27266,2003-10-29,India,Zimbabwe,5,3,Afro-Asian Games,Hyderabad,India,False
+27268,2003-10-31,Rwanda,Zimbabwe,2,2,Afro-Asian Games,Hyderabad,India,True
+27527,2004-02-18,India,Singapore,1,0,FIFA World Cup qualification,Margao,India,False
+27617,2004-03-31,India,Oman,1,5,FIFA World Cup qualification,Kochi,India,False
+28167,2004-09-08,India,Japan,0,4,FIFA World Cup qualification,Calcutta,India,False
+29421,2006-03-01,India,Yemen,0,3,AFC Asian Cup qualification,New Delhi,India,False
+29736,2006-08-16,India,Saudi Arabia,0,3,AFC Asian Cup qualification,Calcutta,India,False
+29967,2006-10-11,India,Japan,0,3,AFC Asian Cup qualification,Bangalore,India,False
+30685,2007-08-17,India,Cambodia,6,0,Nehru Cup,New Delhi,India,False
+30686,2007-08-18,Bangladesh,Syria,0,2,Nehru Cup,New Delhi,India,True
+30687,2007-08-19,Kyrgyzstan,Cambodia,4,3,Nehru Cup,New Delhi,India,True
+30689,2007-08-20,India,Bangladesh,1,0,Nehru Cup,New Delhi,India,False
+30694,2007-08-21,Syria,Kyrgyzstan,4,1,Nehru Cup,New Delhi,India,True
+30699,2007-08-22,Bangladesh,Cambodia,1,1,Nehru Cup,New Delhi,India,True
+30741,2007-08-23,India,Syria,2,3,Nehru Cup,New Delhi,India,False
+30743,2007-08-24,Bangladesh,Kyrgyzstan,0,3,Nehru Cup,New Delhi,India,True
+30746,2007-08-25,Cambodia,Syria,1,5,Nehru Cup,New Delhi,India,True
+30751,2007-08-26,India,Kyrgyzstan,3,0,Nehru Cup,New Delhi,India,False
+30758,2007-08-29,India,Syria,1,0,Nehru Cup,New Delhi,India,False
+30982,2007-10-30,India,Lebanon,2,2,FIFA World Cup qualification,Margao,India,False
+30983,2007-11-02,Bhutan,Tibet,3,0,Friendly,Gangtok,India,True
+31405,2008-05-24,India,Taiwan,3,0,Friendly,Margao,India,False
+31427,2008-05-27,India,Taiwan,2,2,Friendly,Chennai,India,False
+31723,2008-07-22,India,Malaysia,1,1,Friendly,Hyderabad,India,False
+31735,2008-07-30,India,Afghanistan,1,0,AFC Challenge Cup,Hyderabad,India,False
+31739,2008-07-30,Turkmenistan,Tajikistan,0,0,AFC Challenge Cup,Hyderabad,India,True
+31740,2008-07-31,Myanmar,Nepal,3,0,AFC Challenge Cup,Hyderabad,India,True
+31742,2008-07-31,North Korea,Sri Lanka,3,0,AFC Challenge Cup,Hyderabad,India,True
+31743,2008-08-01,Afghanistan,Turkmenistan,0,5,AFC Challenge Cup,Hyderabad,India,True
+31744,2008-08-01,India,Tajikistan,1,1,AFC Challenge Cup,Hyderabad,India,False
+31745,2008-08-02,Nepal,North Korea,0,1,AFC Challenge Cup,Hyderabad,India,True
+31746,2008-08-02,Sri Lanka,Myanmar,1,3,AFC Challenge Cup,Hyderabad,India,True
+31747,2008-08-03,Afghanistan,Tajikistan,0,4,AFC Challenge Cup,Hyderabad,India,True
+31748,2008-08-03,India,Turkmenistan,2,1,AFC Challenge Cup,Hyderabad,India,False
+31751,2008-08-04,North Korea,Myanmar,1,0,AFC Challenge Cup,Hyderabad,India,True
+31752,2008-08-04,Nepal,Sri Lanka,3,0,AFC Challenge Cup,Hyderabad,India,True
+31754,2008-08-07,India,Myanmar,1,0,AFC Challenge Cup,Hyderabad,India,False
+31756,2008-08-07,North Korea,Tajikistan,0,1,AFC Challenge Cup,Hyderabad,India,True
+31765,2008-08-13,Myanmar,North Korea,0,4,AFC Challenge Cup,New Delhi,India,True
+31766,2008-08-13,India,Tajikistan,4,1,AFC Challenge Cup,New Delhi,India,False
+32774,2009-08-19,India,Lebanon,0,1,Nehru Cup,New Delhi,India,False
+32775,2009-08-20,Syria,Kyrgyzstan,2,0,Nehru Cup,New Delhi,India,True
+32776,2009-08-22,Sri Lanka,Lebanon,4,3,Nehru Cup,New Delhi,India,True
+32777,2009-08-23,India,Kyrgyzstan,2,1,Nehru Cup,New Delhi,India,False
+32779,2009-08-24,Syria,Sri Lanka,4,0,Nehru Cup,New Delhi,India,True
+32781,2009-08-25,Kyrgyzstan,Lebanon,1,1,Nehru Cup,New Delhi,India,True
+32783,2009-08-26,India,Sri Lanka,3,1,Nehru Cup,New Delhi,India,False
+32785,2009-08-27,Syria,Lebanon,1,0,Nehru Cup,New Delhi,India,True
+32786,2009-08-28,Sri Lanka,Kyrgyzstan,1,4,Nehru Cup,New Delhi,India,True
+32787,2009-08-29,India,Syria,0,1,Nehru Cup,New Delhi,India,False
+32790,2009-08-31,India,Syria,1,1,Nehru Cup,New Delhi,India,False
+33655,2010-09-08,India,Thailand,1,2,Friendly,New Delhi,India,False
+33659,2010-09-15,India,Namibia,2,0,Friendly,New Delhi,India,False
+33687,2010-10-04,India,Hong Kong,0,1,Friendly,Pune,India,False
+33705,2010-10-08,India,Vietnam,3,1,Friendly,Pune,India,False
+33801,2010-10-13,India,Yemen,3,6,Friendly,Pune,India,False
+34125,2011-03-23,Bhutan,Afghanistan,0,3,AFC Challenge Cup qualification,Gurgaon,India,True
+34132,2011-03-25,Afghanistan,Bhutan,2,0,AFC Challenge Cup qualification,Gurgaon,India,True
+34510,2011-07-28,India,United Arab Emirates,2,2,FIFA World Cup qualification,New Delhi,India,False
+34612,2011-09-02,Argentina,Venezuela,1,0,Friendly,Calcutta,India,True
+34960,2011-11-13,India,Malaysia,1,1,Friendly,Guwahati,India,False
+35023,2011-11-16,India,Malaysia,3,2,Friendly,Calcutta,India,False
+35040,2011-11-29,India,Zambia,0,5,Friendly,Margao,India,False
+35047,2011-12-02,Bangladesh,Pakistan,0,0,SAFF Cup,New Delhi,India,True
+35050,2011-12-02,Maldives,Nepal,1,1,SAFF Cup,New Delhi,India,True
+35053,2011-12-03,India,Afghanistan,1,1,SAFF Cup,New Delhi,India,False
+35055,2011-12-03,Sri Lanka,Bhutan,3,0,SAFF Cup,New Delhi,India,True
+35057,2011-12-04,Bangladesh,Nepal,0,1,SAFF Cup,New Delhi,India,True
+35059,2011-12-04,Maldives,Pakistan,0,0,SAFF Cup,New Delhi,India,True
+35063,2011-12-05,India,Bhutan,5,0,SAFF Cup,New Delhi,India,False
+35065,2011-12-05,Sri Lanka,Afghanistan,1,3,SAFF Cup,New Delhi,India,True
+35067,2011-12-06,Maldives,Bangladesh,3,1,SAFF Cup,New Delhi,India,True
+35068,2011-12-06,Pakistan,Nepal,1,1,SAFF Cup,New Delhi,India,True
+35071,2011-12-07,Bhutan,Afghanistan,1,8,SAFF Cup,New Delhi,India,True
+35072,2011-12-07,India,Sri Lanka,3,0,SAFF Cup,New Delhi,India,False
+35075,2011-12-09,Afghanistan,Nepal,1,0,SAFF Cup,New Delhi,India,True
+35076,2011-12-09,India,Maldives,3,1,SAFF Cup,New Delhi,India,False
+35080,2011-12-11,India,Afghanistan,4,0,SAFF Cup,New Delhi,India,False
+35617,2012-08-22,India,Syria,2,1,Nehru Cup,New Delhi,India,False
+35618,2012-08-23,Maldives,Nepal,2,1,Nehru Cup,New Delhi,India,True
+35619,2012-08-24,Syria,Cameroon,2,2,Nehru Cup,New Delhi,India,True
+35620,2012-08-25,India,Maldives,3,0,Nehru Cup,New Delhi,India,False
+35624,2012-08-26,Nepal,Cameroon,0,5,Nehru Cup,New Delhi,India,True
+35625,2012-08-27,Maldives,Syria,2,1,Nehru Cup,New Delhi,India,True
+35626,2012-08-28,India,Nepal,0,0,Nehru Cup,New Delhi,India,False
+35627,2012-08-29,Cameroon,Maldives,3,1,Nehru Cup,New Delhi,India,True
+35628,2012-08-30,Syria,Nepal,2,0,Nehru Cup,New Delhi,India,True
+35629,2012-08-31,India,Cameroon,0,1,Nehru Cup,New Delhi,India,False
+35630,2012-09-02,India,Cameroon,2,2,Nehru Cup,New Delhi,India,False
+36195,2013-02-06,India,Palestine,2,4,Friendly,Kochi,India,False
+36927,2013-11-15,India,Philippines,1,1,Friendly,Siliguri,India,False
+36976,2013-11-19,India,Nepal,2,0,Friendly,Siliguri,India,False
+37091,2014-03-05,India,Bangladesh,2,2,Friendly,Margao,India,False
+37576,2014-10-06,India,Palestine,2,3,Friendly,Siliguri,India,False
+37987,2015-03-12,India,Nepal,2,0,FIFA World Cup qualification,Guwahati,India,False
+38225,2015-06-11,India,Oman,1,2,FIFA World Cup qualification,Bangalore,India,False
+38442,2015-08-31,India,Nepal,0,0,Friendly,Pune,India,False
+38561,2015-09-08,India,Iran,0,3,FIFA World Cup qualification,Bangalore,India,False
+38752,2015-11-12,India,Guam,1,0,FIFA World Cup qualification,Bangalore,India,False
+38898,2015-12-23,Nepal,Sri Lanka,0,1,SAFF Cup,Thiruvananthapuram,India,True
+38899,2015-12-24,Afghanistan,Bangladesh,4,0,SAFF Cup,Thiruvananthapuram,India,True
+38900,2015-12-24,Maldives,Bhutan,3,1,SAFF Cup,Thiruvananthapuram,India,True
+38901,2015-12-25,India,Sri Lanka,2,0,SAFF Cup,Thiruvananthapuram,India,False
+38902,2015-12-26,Bangladesh,Maldives,1,3,SAFF Cup,Thiruvananthapuram,India,True
+38903,2015-12-26,Bhutan,Afghanistan,0,3,SAFF Cup,Thiruvananthapuram,India,True
+38906,2015-12-27,India,Nepal,4,1,SAFF Cup,Thiruvananthapuram,India,False
+38907,2015-12-28,Afghanistan,Maldives,4,1,SAFF Cup,Thiruvananthapuram,India,True
+38908,2015-12-28,Bhutan,Bangladesh,0,3,SAFF Cup,Thiruvananthapuram,India,True
+38909,2015-12-31,Afghanistan,Sri Lanka,5,0,SAFF Cup,Thiruvananthapuram,India,True
+38910,2015-12-31,India,Maldives,3,2,SAFF Cup,Thiruvananthapuram,India,False
+38911,2016-01-03,India,Afghanistan,2,1,SAFF Cup,Thiruvananthapuram,India,False
+39067,2016-03-29,India,Turkmenistan,1,2,FIFA World Cup qualification,Kochi,India,False
+39296,2016-06-07,India,Laos,6,1,AFC Asian Cup qualification,Guwahati,India,False
+39475,2016-09-03,India,Puerto Rico,4,1,Friendly,Bombay,India,False
+40083,2017-06-06,India,Nepal,2,0,Friendly,Bombay,India,False
+40189,2017-06-13,India,Kyrgyzstan,1,0,AFC Asian Cup qualification,Bangalore,India,False
+40331,2017-08-19,India,Mauritius,2,1,Friendly,Bombay,India,False
+40333,2017-08-22,Mauritius,Saint Kitts and Nevis,1,1,Friendly,Bombay,India,True
+40335,2017-08-24,India,Saint Kitts and Nevis,1,1,Friendly,Bombay,India,False
+40581,2017-10-11,India,Macau,4,1,AFC Asian Cup qualification,Bangalore,India,False
+40659,2017-11-14,India,Myanmar,2,2,AFC Asian Cup qualification,Margao,India,False
+40981,2018-06-01,India,Taiwan,5,0,Intercontinental Cup,Mumbai,India,False
+40996,2018-06-02,Kenya,New Zealand,2,1,Intercontinental Cup,Mumbai,India,True
+41026,2018-06-04,India,Kenya,3,0,Intercontinental Cup,Mumbai,India,False
+41033,2018-06-05,Taiwan,New Zealand,0,1,Intercontinental Cup,Mumbai,India,True
+41055,2018-06-07,India,New Zealand,1,2,Intercontinental Cup,Mumbai,India,False
+41068,2018-06-08,Taiwan,Kenya,0,4,Intercontinental Cup,Mumbai,India,True
+41089,2018-06-10,India,Kenya,2,0,Intercontinental Cup,Mumbai,India,False
+42188,2019-07-07,India,Tajikistan,2,4,Intercontinental Cup,Ahmedabad,India,False
+42195,2019-07-08,Syria,North Korea,5,2,Intercontinental Cup,Ahmedabad,India,True
+42202,2019-07-10,Tajikistan,Syria,2,0,Intercontinental Cup,Ahmedabad,India,True
+42209,2019-07-13,India,North Korea,2,5,Intercontinental Cup,Ahmedabad,India,False
+42216,2019-07-15,North Korea,Tajikistan,1,0,Intercontinental Cup,Ahmedabad,India,True
+42217,2019-07-16,India,Syria,1,1,Intercontinental Cup,Ahmedabad,India,False
+42225,2019-07-19,Tajikistan,North Korea,0,1,Intercontinental Cup,Ahmedabad,India,True
+42280,2019-09-05,India,Oman,1,2,FIFA World Cup qualification,Guwahati,India,False
+42578,2019-10-15,India,Bangladesh,1,1,FIFA World Cup qualification,Kolkota,India,False
+44686,2022-06-08,Hong Kong,Afghanistan,2,1,AFC Asian Cup qualification,Kolkota,India,True
+44687,2022-06-08,India,Cambodia,2,0,AFC Asian Cup qualification,Kolkota,India,False
+44750,2022-06-11,Cambodia,Hong Kong,0,3,AFC Asian Cup qualification,Kolkota,India,True
+44751,2022-06-11,India,Afghanistan,2,1,AFC Asian Cup qualification,Kolkota,India,False
+44810,2022-06-14,Afghanistan,Cambodia,2,2,AFC Asian Cup qualification,Kolkota,India,True
+44811,2022-06-14,India,Hong Kong,4,0,AFC Asian Cup qualification,Kolkota,India,False
+45194,2023-03-22,India,Myanmar,1,0,Tri Nation Tournament,Imphal,India,False
+45267,2023-03-25,Myanmar,Kyrgyzstan,1,1,Tri Nation Tournament,Imphal,India,True
+45333,2023-03-28,India,Kyrgyzstan,2,0,Tri Nation Tournament,Imphal,India,False
+45531,2023-06-21,Kuwait,Nepal,3,1,SAFF Cup,Bengaluru,India,True
+45532,2023-06-21,India,Pakistan,4,0,SAFF Cup,Bengaluru,India,False
+45533,2023-06-22,Lebanon,Bangladesh,2,0,SAFF Cup,Bengaluru,India,True
+45534,2023-06-22,Maldives,Bhutan,2,0,SAFF Cup,Bengaluru,India,True
+45535,2023-06-24,Pakistan,Kuwait,0,4,SAFF Cup,Bengaluru,India,True
+45536,2023-06-24,India,Nepal,2,0,SAFF Cup,Bengaluru,India,False
+45538,2023-06-25,Bangladesh,Maldives,3,1,SAFF Cup,Bengaluru,India,True
+45539,2023-06-25,Bhutan,Lebanon,1,4,SAFF Cup,Bengaluru,India,True
+45545,2023-06-27,Nepal,Pakistan,1,0,SAFF Cup,Bengaluru,India,True
+45546,2023-06-27,India,Kuwait,1,1,SAFF Cup,Bengaluru,India,False
+45549,2023-06-28,Lebanon,Maldives,1,0,SAFF Cup,Bengaluru,India,True
+45550,2023-06-28,Bhutan,Bangladesh,1,3,SAFF Cup,Bengaluru,India,True
+45559,2023-07-01,India,Lebanon,0,0,SAFF Cup,Bengaluru,India,False
+45560,2023-07-01,Kuwait,Bangladesh,1,0,SAFF Cup,Bengaluru,India,True
+45568,2023-07-04,India,Kuwait,1,1,SAFF Cup,Bengaluru,India,False
+46096,2023-11-21,India,Qatar,0,3,FIFA World Cup qualification,Bhubaneswar,India,False
+46400,2024-03-26,India,Afghanistan,1,2,FIFA World Cup qualification,Guwahati,India,False
